@@ -1,0 +1,16 @@
+.wrapper {
+    height: 100%;
+    width: 100%;
+    padding: 1rem 0 0 0;
+    align-items: baseline;
+    box-sizing: border-box;
+}
+
+.bento {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: calc(100% - 3.5rem);
+}
+
+
